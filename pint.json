@@ -1,0 +1,9 @@
+{
+  "preset": "laravel",
+  "notPath": [
+    "database/migrations/2017_03_03_100000_create_options_table.php"
+  ],
+  "rules": {
+    "declare_strict_types": true
+  }
+}

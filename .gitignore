@@ -1,0 +1,15 @@
+/vendor
+/build
+/coverage
+/node_modules
+.phpunit.cache
+.phpunit.result.cache
+composer.lock
+phpunit.xml
+phpstan.neon
+testbench.yaml
+auth.json
+.env
+.idea
+.vscode
+.DS_Store
